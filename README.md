@@ -1,4 +1,4 @@
-# Zero Trust IDS — Machine Learning Assisted Zero Trust Security Framework
+# Zero Trust IDS - Machine Learning Assisted Zero Trust Security Framework
 
 ## Overview
 
